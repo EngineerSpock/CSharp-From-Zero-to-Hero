@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\EngineerSpock\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\EngineerSpock\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_CSharpOnUdemy.1885033169.00" t="ExcludeRecursive" />
+    <e p="Q:\OneDrive\Documents\Udemy-Course\26-C# for Beginners RU\CSharpOnUdemy" t="IncludeFlat">
+      <e p="A_Basics" t="IncludeRecursive">
+        <e p="A_Basics.csproj" t="IncludeRecursive" />
+        <e p="Basics.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="A_Basics.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="B_ControlFlow" t="IncludeRecursive">
+        <e p="B_ControlFlow.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ControlFlow.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="B_ControlFlow.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="C_ArraysCollections" t="IncludeRecursive">
+        <e p="ArraysCollections.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="C_ArraysCollections.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="C_ArraysCollections.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="CSharpOnUdemy.sln" t="IncludeFlat" />
+      <e p="D_OOP" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Classes.cs" t="Include" />
+        <e p="D_OOP.csproj" t="IncludeRecursive" />
+        <e p="DisposalFinalization.cs" t="Include" />
+        <e p="Generics.cs" t="Include" />
+        <e p="HW_ComplexNumbers.cs" t="Include" />
+        <e p="HW_GuessNumber.cs" t="Include" />
+        <e p="Inheritance.cs" t="Include" />
+        <e p="Interfaces.cs" t="Include" />
+        <e p="MostImportantInterfaces" t="Include">
+          <e p="Class1.cs" t="Include" />
+        </e>
+        <e p="NuGetDemo.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="D_OOP.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TicTacToe" t="Include">
+          <e p="Game.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="State.cs" t="Include" />
+          <e p="Winner.cs" t="Include" />
+        </e>
+        <e p="ValRefTypes.cs" t="Include" />
+      </e>
+      <e p="E_Files" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="E_Files.csproj" t="IncludeRecursive" />
+        <e p="Files.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="E_Files.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="F1_Exceptions" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="F1_Exceptions.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="F1_Exceptions.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="F2_Hangman" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="F2_Hangman.csproj" t="IncludeRecursive" />
+        <e p="Game.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="F2_Hangman.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="WordsStockRus.txt" t="Include" />
+      </e>
+      <e p="G1_Delegation" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ChessStats" t="Include">
+          <e p="Top100ChessPlayers.csv" t="Include" />
+        </e>
+        <e p="Events.cs" t="Include" />
+        <e p="G1_Delegation.csproj" t="IncludeRecursive" />
+        <e p="Lambdas.cs" t="Include" />
+        <e p="Linq" t="Include">
+          <e p="ChessPlayer.cs" t="Include" />
+          <e p="IHaveId.cs" t="Include" />
+          <e p="LinqExtensions.cs" t="Include" />
+          <e p="ParseCsv.cs" t="Include" />
+          <e p="RandomStream.cs" t="Include" />
+          <e p="RoleOfIEnumerable.cs" t="Include" />
+          <e p="WhyLinq.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="G1_Delegation.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="G2_SticksGame" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="G2_SticksGame.csproj" t="IncludeRecursive" />
+        <e p="GameOverEventArgs.cs" t="Include" />
+        <e p="GameStatus.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="G2_SticksGame.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Player.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="SticksGame.cs" t="Include" />
+      </e>
+      <e p="G3_TrueOrFalse" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="G3_TrueOrFalse.csproj" t="IncludeRecursive" />
+        <e p="GameResultEventArgs.cs" t="Include" />
+        <e p="GameStatus.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="G3_TrueOrFalse.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Question.cs" t="Include" />
+        <e p="Questions.csv" t="Include" />
+        <e p="TrueFalseGame.cs" t="Include" />
+      </e>
+      <e p="Multithreading" t="IncludeRecursive">
+        <e p="AsyncAwait.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Multithreading.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Multithreading.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OldAPI" t="Include">
+          <e p="ThreadApi.cs" t="Include" />
+        </e>
+        <e p="ProcessApi.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Signaling" t="Include">
+          <e p="BankExample" t="Include">
+            <e p="BankTerminal.cs" t="Include" />
+            <e p="OperationStatus.cs" t="Include" />
+            <e p="Protocol.cs" t="Include" />
+            <e p="ProtocolMessage.cs" t="Include" />
+          </e>
+          <e p="Program.cs" t="Include" />
+        </e>
+        <e p="Synchronization" t="Include">
+          <e p="Character.cs" t="Include" />
+          <e p="Deadlock.cs" t="Include" />
+          <e p="Lazy.cs" t="Include" />
+          <e p="Lock.cs" t="Include" />
+          <e p="LockSlimExt.cs" t="Include" />
+          <e p="NightClubSimulator.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+        </e>
+        <e p="TaskApi.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
